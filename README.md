@@ -6,8 +6,8 @@
 
 
 <p align="center">
-  <a href="https://github.com/OO7ROBot/Pdisk-Upload-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/OO7ROBot/pdisk-upload-bot?style=social">
+  <a href="https://github.com/KOTDEMOREPOS/Pdisk-Upload-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/KOTDEMOREPOS/pdisk-upload-bot?style=social">
   </a>
   
   <a href="https://github.com/KOTDEMOREPOS/pdisk-upload-bot/fork">
