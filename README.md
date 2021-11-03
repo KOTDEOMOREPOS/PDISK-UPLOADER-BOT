@@ -10,22 +10,21 @@
     <img src="https://img.shields.io/github/stars/OO7ROBot/pdisk-upload-bot?style=social">
   </a>
   
-  <a href="https://github.com/OO7ROBot/pdisk-upload-bot/fork">
-    <img src="https://img.shields.io/github/forks/OO7ROBot/pdisk-upload-bot?label=Fork&style=social">
+  <a href="https://github.com/KOTDEMOREPOS/pdisk-upload-bot/fork">
+    <img src="https://img.shields.io/github/forks/KOTDEMOREPOS/pdisk-upload-bot?label=Fork&style=social">
   </a>  
 </p>
 
 
-#
 
-# Demo:
-<a href="https://telegram.me/uptoPDiskbot"><img src="https://img.shields.io/badge/@uptoPDiskbot-1a66ff?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
-### Heroku Deploy
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/OO7ROBot/Pdisk-Upload-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45" alt="Deploy To Heroku"/></a></p>
 
-#
+
+
+
+
+
 
 ## Config
 
@@ -40,9 +39,7 @@
     </tr>
 </table>
   
-#
-  
-## Credits
 
-- **[Akkil](https://github.com/HeimanPictures/)**
-- **[Pyrogram](https://github.com/pyrogram)**
+  
+
+
