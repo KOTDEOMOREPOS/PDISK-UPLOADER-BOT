@@ -19,19 +19,21 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 START = """
 Hi 👋 {}!
         
-__A Simple PDsik Uploader Bot. It Can Upload Link To PDisk.
-Send Me Any Direct Link Or YouTube or Video Link I Will Upload To PDisk And Give Direct Pdisk Link
+__A sɪᴍᴘʟᴇ ᴘᴅsɪᴋ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ. ɪᴛ ᴄᴀɴ ᴜᴘʟᴏᴀᴅ ʟɪɴᴋ ᴛᴏ ᴘᴅɪsᴋ.
 
-> Support Custom Thumbnail
-> Support Custom Tittle Name
+sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴅʀɪᴄᴛ ʟɪɴᴋ ᴏʀ ʏᴏᴜᴛᴜʙᴇ ᴏʀ ᴠɪᴅᴇᴏ ʟɪɴʟ I ᴡɪʟʟ ᴜᴘʟᴏᴀᴅ ᴛᴏ ᴘᴅɪsᴅ ᴀɴᴅ ɢɪᴠᴇ ᴅʀɪᴄᴇᴛ ᴘᴅɪsᴋ ʟɪɴᴋ
 
-Read /help Carefully & Do Follow All Given Instruction... __
+> ѕυρρσят ¢υѕтσм тнυмвηαιℓ
 
-✪ » **Create Your Own bot for Personal use** ⤵️
+> ѕυρρσят ¢υѕтσм тιттℓє ηαмє
+
+𝗥𝗘𝗔𝗗 /help 𝗖𝗮𝗿𝗲𝗳𝘂𝗹𝗹𝘆 & 𝗙𝗢𝗟𝗟𝗢𝗪 𝗔𝗟𝗟 𝗧𝗛𝗘 𝗥𝗨𝗟𝗘𝗦... __
+
+✪ » **𝗣𝗢𝗪𝗘𝗥 𝗕𝗬 : @KOT_BOTS 𝗔𝗡𝗬  𝗣𝗥𝗢𝗕𝗟𝗘𝗠 𝗢𝗥 𝗥𝗘𝗣𝗢𝗥𝗧 : @KOT_REPORS** ⤵️
 """
 
 HELP = """
-**How to Use Me...**
+*𝗛𝗢𝗪 𝗧𝗢 𝗨𝗦𝗘 𝗠𝗘...**
 
 ⦿ Its Easy to Use me 
 ✪ » Send me Any Direct Link or YouTube Link
@@ -61,9 +63,9 @@ So,be Patient 😴😴😴😴"""
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🍿 Source Code 🍿', url='https://github.com/OO7ROBot/Pdisk-Upload-Bot')
+        InlineKeyboardButton('🍿KOT BOTS 🍿', url='https://t.me/KOT_BOTS')
         ],[
-        InlineKeyboardButton('Channel', url='https://telegram.me/MyTestBotZ'),
+        InlineKeyboardButton('SUPPORT', url='https://telegram.me/KOT_REPORS'),
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('Close', callback_data='close')
         ]]
