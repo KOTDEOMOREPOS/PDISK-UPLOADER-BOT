@@ -23,18 +23,19 @@
 
 ## Support 🇮🇳
 
-<a href="https://t.me/lntechnical">
+<a href="https://t.me/KOT_FREE_DE_LA_HOYA_OFF">
+<p>TELEGRAM</P>
+</a>
+   
 
-   <p> Telegram </p>
 
-  </a>
 
-<a href="https://youtube.com/c/LNtechnical">
+<a href="https://youtube.com/channel/UCKC_fZexnUcgjG8KWQfgUFA">
 <p>YOUTUBE</P>
 </a>
    
 
-</a>
+
 
    
   
